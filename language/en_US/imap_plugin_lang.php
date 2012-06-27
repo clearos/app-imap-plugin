@@ -1,5 +1,5 @@
 <?php
 
-$lang['imap_plugin_app_name'] = 'POP/IMAP Server Policies';
-$lang['imap_plugin_app_description'] = 'POP/IMAP Server Policies provide access control for the POP/IMAP Server app.';
-$lang['imap_plugin_smtp_server_user'] = 'POP/IMAP Server User';
+$lang['imap_plugin_app_name'] = 'IMAP and POP Server Policies';
+$lang['imap_plugin_app_description'] = 'IMAP and POP Server Policies provide access control for the IMAP and POP Server app.';
+$lang['imap_plugin_smtp_server_user'] = 'IMAP and POP Server User';

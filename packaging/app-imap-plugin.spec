@@ -1,24 +1,24 @@
 
 Name: app-imap-plugin
 Epoch: 1
-Version: 1.2.2
+Version: 1.2.0
 Release: 1%{dist}
-Summary: POP/IMAP Server Policies - Core
+Summary: IMAP and POP Server Policies - Core
 License: LGPLv3
 Group: ClearOS/Libraries
 Source: app-imap-plugin-%{version}.tar.gz
 Buildarch: noarch
 
 %description
-POP/IMAP Server Policies provide access control for the POP/IMAP Server app.
+IMAP and POP Server Policies provide access control for the IMAP and POP Server app.
 
 %package core
-Summary: POP/IMAP Server Policies - Core
+Summary: IMAP and POP Server Policies - Core
 Requires: app-base-core
 Requires: app-accounts-core
 
 %description core
-POP/IMAP Server Policies provide access control for the POP/IMAP Server app.
+IMAP and POP Server Policies provide access control for the IMAP and POP Server app.
 
 This package provides the core API and libraries.
 
