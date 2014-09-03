@@ -1,7 +1,7 @@
 
 Name: app-imap-plugin
 Epoch: 1
-Version: 1.4.14
+Version: 1.6.5
 Release: 1%{dist}
 Summary: IMAP and POP Server Policies - Core
 License: LGPLv3
@@ -54,9 +54,7 @@ exit 0
 %files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/imap_plugin/packaging
-%exclude /usr/clearos/apps/imap_plugin/tests
 %dir /usr/clearos/apps/imap_plugin
 /usr/clearos/apps/imap_plugin/deploy
 /usr/clearos/apps/imap_plugin/language
-/usr/clearos/apps/imap_plugin/libraries
 /var/clearos/accounts/plugins/imap.php
