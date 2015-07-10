@@ -1,7 +1,7 @@
 
 Name: app-imap-plugin
 Epoch: 1
-Version: 2.0.24
+Version: 2.1.6
 Release: 1%{dist}
 Summary: IMAP and POP Server Policies - Core
 License: LGPLv3
